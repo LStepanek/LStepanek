@@ -1,4 +1,4 @@
-### 👋 Hello, I'm Lubomír!
+#### 👋 Hello, I'm Lubomír!
 
 Welcome to my GitHub profile! I am a **statistician**, **assistant professor**, and **postdoctoral fellow** affiliated with the following institutions:
 
@@ -10,7 +10,7 @@ I am passionate about **statistics**, **machine learning**, and their applicatio
 
 ---
 
-### 📜 **About Me**
+#### 📜 **About Me**
 - 🎓 **Role**: Assistant Professor in Statistics
 - 🌍 [**Member of the Executive Committee**](https://iscb.international/executive-committee/) of the **International Society for Clinical Biostatistics (ISCB)**.
 - 💡 I’m passionate about:
@@ -22,7 +22,7 @@ I am passionate about **statistics**, **machine learning**, and their applicatio
 
 ---
 
-### 🌐 **Profiles & Links**
+#### 🌐 **Profiles & Links**
 - [**ORCID**](https://orcid.org/0000-0002-8308-4304)  
 - [**Web of Science**](https://www.webofscience.com/wos/author/record/3811145)  
 - [**Scopus**](https://www.scopus.com/authid/detail.uri?authorId=57210897167) 
@@ -32,7 +32,7 @@ Feel free to connect and follow my work on these platforms!
 ---
 
 
-### 🌟 **Get in Touch**
+#### 🌟 **Get in Touch**
 - 🐦 [Follow me on Twitter](https://x.com/lubomirstepanek) for updates and discussions in statistics and biostatistics.
 
 ---
