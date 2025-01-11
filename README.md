@@ -12,7 +12,7 @@ I am passionate about **statistics**, **machine learning**, and their applicatio
 
 #### 📜 **About Me**
 - 🎓 **Role**: Assistant Professor in Statistics
-- 🌍 [**Member of the Executive Committee**](https://iscb.international/executive-committee/) of the **International Society for Clinical Biostatistics (ISCB)**.
+- 🌍 [Member of the Executive Committee](https://iscb.international/executive-committee/) of the **International Society for Clinical Biostatistics (ISCB)**.
 - 💡 I’m passionate about:
   - Robust statistical methods
   - Survival analysis
