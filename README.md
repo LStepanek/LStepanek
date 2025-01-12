@@ -12,7 +12,7 @@ I am passionate about **statistics**, **machine learning**, and their applicatio
 
 #### 📜 **About Me**
 - 🎓 Role:
-  - Assistant Professor teaching courses in Statistics, #rstats, Introductory Calculus, Introductory Linear Algebra, Survival Analysis, and Robust Statistics.
+  - Assistant professor teaching courses in Statistics, #rstats, Introductory calculus, Introductory linear algebra, Survival analysis, and Robust statistics.
   - Biostatistician.
 - 🌍 [Member of the Executive Committee](https://iscb.international/executive-committee/) of the **International Society for Clinical Biostatistics (ISCB)**.
 - 💡 I’m passionate about:
