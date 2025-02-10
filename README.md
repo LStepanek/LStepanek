@@ -1,10 +1,10 @@
 #### 👋 Hello, I'm Lubomír!
 
-Welcome to my GitHub profile! I am a **statistician**, **assistant professor**, and **postdoctoral fellow** affiliated with the following institutions:
+Welcome to my GitHub profile! I am a **statistician**, **assistant professor**, and **postdoctoral fellow** affiliated with the following institutions,
 
-- [Institute of Biophysics and Informatics](https://is.cuni.cz/webapps/whois2/osoba/1121663932437885/?lang=en), First Faculty of Medicine, **Charles University**
-- [Department of Statistics and Probability](https://kstp.vse.cz/english/about-the-department/members-of-the-department/), Faculty of Informatics and Statistics, **Prague University of Economics and Business**
-- [Department of Statistical Modelling](https://www.cs.cas.cz/staff/stepanek/en), Institute of Computer Science, **Czech Academy of Sciences**
+- [Institute of Biophysics and Informatics](https://is.cuni.cz/webapps/whois2/osoba/1121663932437885/?lang=en), First Faculty of Medicine, **Charles University**,
+- [Department of Statistics and Probability](https://kstp.vse.cz/english/about-the-department/members-of-the-department/), Faculty of Informatics and Statistics, **Prague University of Economics and Business**,
+- [Department of Statistical Modelling](https://www.cs.cas.cz/staff/stepanek/en), Institute of Computer Science, **Czech Academy of Sciences**.
 
 I am passionate about **statistics**, **machine learning**, and their applications in **biostatistics**. My areas of expertise include **robust statistics**, **survival analysis**, and other methods critical to **clinical** and **biomedical research**.
 
