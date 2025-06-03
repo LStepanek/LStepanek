@@ -25,11 +25,18 @@ I am passionate about **statistics**, **machine learning**, and their applicatio
 ---
 
 #### 🌐 **Profiles & Links**
+<!--
 - [**ORCiD**](https://orcid.org/0000-0002-8308-4304)  
 - [**Web of Science**](https://www.webofscience.com/wos/author/record/3811145)  
 - [**Scopus**](https://www.scopus.com/authid/detail.uri?authorId=57210897167) 
+--> 
+- [<img src="https://raw.githubusercontent.com/LStepanek/orcid_logo/refs/heads/main/orcid_logo_white_background.png" width="18" height="18" />](https://orcid.org/0000-0002-8308-4304) My [ORCiD](https://orcid.org/0000-0002-8308-4304) profile is [here](https://orcid.org/0000-0002-8308-4304).  
+- My [Web of Science](https://www.webofscience.com/wos/author/record/3811145) profile is [here](https://www.webofscience.com/wos/author/record/3811145).
+- My [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57210897167) profile is [here](https://www.scopus.com/authid/detail.uri?authorId=57210897167).
 
+<!--
 [<img src="https://raw.githubusercontent.com/LStepanek/orcid_logo/refs/heads/main/orcid_logo_white_background.png" width="18" height="18" />](https://orcid.org/0000-0002-8308-4304) My ORCiD profile is also [here](https://orcid.org/0000-0002-8308-4304).  
+-->
 
 My publication record is below *(as of June 2, 2025)*.
 
