@@ -29,6 +29,19 @@ I am passionate about **statistics**, **machine learning**, and their applicatio
 - [**Web of Science**](https://www.webofscience.com/wos/author/record/3811145)  
 - [**Scopus**](https://www.scopus.com/authid/detail.uri?authorId=57210897167) 
 
+[<img src="https://raw.githubusercontent.com/LStepanek/orcid_logo/refs/heads/main/orcid_logo_white_background.png" width="18" height="18" />](https://orcid.org/0000-0002-8308-4304) My ORCiD profile is [here](https://orcid.org/0000-0002-8308-4304).  
+
+My publication record is below *(as of June 2, 2025)*.
+
+| source | # of publications | # of citations | *h*-index |
+|--------|-------------------|----------------|---------|
+| [Web of Science](https://www.webofscience.com/wos/author/record/3811145) | 40 | 249 | 8 |
+| [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57210897167) | 54 | 345 | 10 |
+
+My Erdős number is [5](https://www.csauthors.net/distance/lubomir-stepanek/paul-erdos).
+
+You can find my record in the DBLP database, which is specifically dedicated to computer science bibliography, [here](https://dblp.org/pid/206/3333.html).
+
 Feel free to connect and follow my work on these platforms!
 
 ---
